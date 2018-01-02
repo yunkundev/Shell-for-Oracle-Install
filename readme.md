@@ -17,5 +17,9 @@ Check the hardware/software requirement(Package requirement)
 
 ### Step3: Configure(User).sh
 
+Configuring the oracle User's Enviroment
 
+Implement:
+```source /home/oracle/.bash_profile```
 
+### Step4: 
